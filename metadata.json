@@ -1,0 +1,6 @@
+{
+  "name": "JasCapture!",
+  "description": "A modern, premium SaaS-style photobooth web application built with Vanilla JS and Tailwind CSS.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
